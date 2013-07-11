@@ -1,0 +1,8 @@
+<use   name="root"/>
+<use   root=""/>
+<use   name="lhapdf"/>
+<use name="roofit"/>
+<flags   CXXFLAGS="-g -Wall"/>
+<export>
+  <lib   name="1"/>
+</export>
